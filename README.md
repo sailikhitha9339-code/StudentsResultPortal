@@ -89,4 +89,3 @@ The main objective of this project is to simplify student record management and 
 
 ---
 
-*This project is developed for academic and educational purposes.*
