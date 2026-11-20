@@ -83,9 +83,15 @@ Main tables:
 ## Objective
 The main objective of this project is to simplify student record management and result processing through a web-based application using Java technologies and a MySQL database.
 
-## Developed By
-**Student Name:** Rama Shiva  
-**Project:** Student Result Management System
+Developed By:
+K. Venkata Sai Likhitha
 
+Team Members:
+
+D. Pavan Sai Manikanta
+
+A. Rama Shiva
+
+Project Name: StudentResultPortal
 ---
 
