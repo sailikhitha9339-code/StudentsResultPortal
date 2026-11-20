@@ -1,0 +1,4 @@
+com.studentportal.config.AppConfig=org.springframework.stereotype.Component
+com.studentportal.controller.MarkController=org.springframework.stereotype.Component
+com.studentportal.dao.MarkDAO=org.springframework.stereotype.Component
+com.studentportal.service.MarkService=org.springframework.stereotype.Component

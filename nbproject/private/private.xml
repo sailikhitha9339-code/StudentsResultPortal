@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/index.html</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/util/DBConnection.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/util/TestConnection.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/model/Student.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/model/Subject.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/model/Mark.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/dao/SubjectDAO.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/dao/MarkDAO.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/service/StudentService.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/service/SubjectService.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/service/MarkService.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/StudentController.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/SubjectController.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/MarkController.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/StudentServlet.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/SubjectServlet.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/subjects.jsp</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/students.jsp</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/MarkServlet.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/marks.jsp</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/controller/ResultServlet.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/result.jsp</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/config/AppConfig.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/index.jsp</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/login.jsp</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/ramas/OneDrive/Documents/NetBeansProjects/StudentsResultPortal/src/java/com/studentportal/servlet/LogoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
